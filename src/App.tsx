@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-
+      <h1>Prueba guitar</h1>
     </>
   )
 }
